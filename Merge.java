@@ -21,7 +21,7 @@ public class Merge {
                 A[k] = L[i];
                 i++;
             }
-            else
+             else
             {
                 A[k] = R[j];
                 j++;
